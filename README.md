@@ -36,12 +36,10 @@ I am a Game and Web Developer. Most of my projects are in Unity. However, I am a
 - [<img align="left" alt="mrthunder portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Portfolio][website]
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrthunder&show_icons=true&hide_border=false" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrthunder&show_icons=true&hide_border=true" />
 
-<br/>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthunder&hide=ShaderLab,GLSL,Mathematica)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthunder&hide=ShaderLab,GLSL,Mathematica&hide_border=true)]()
 
 [linkedin]: https://www.linkedin.com/in/lucasdesouzagoes/
 [website]: https://lucasgoes95.wixsite.com/portfolio
