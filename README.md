@@ -36,7 +36,7 @@ I am a Game and Web Developer. Most of my projects are in Unity. However, I am a
 - [<img align="left" alt="mrthunder portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Portfolio][website]
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrthunder&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrthunder&show_icons=true&hide_border=false" />
 
 <br/>
 <br/>
