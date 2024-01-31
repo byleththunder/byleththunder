@@ -3,12 +3,12 @@
 I am a Game and Web Developer. Most of my projects are in Unity. However, I am always trying to learn new languages, tools and frameworks. The following are the ones I currently know:
 
 ## :video_game: Game Engines and Tools
-<img align="left" alt="mrthunder | Unity Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
-<img align="left" alt="mrthunder | Unreal Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />
-<img align="left" alt="mrthunder | Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
-<img align="left" alt="mrthunder | Visual Sutdio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" alt="byleththunder | Unity Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+<img align="left" alt="byleththunder | Unreal Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />
+<img align="left" alt="byleththunder | Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
+<img align="left" alt="byleththunder | Visual Sutdio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 
-<img align="left" alt="mrthunder | Unreal Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="byleththunder | Unreal Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
 
 <br/>
@@ -23,12 +23,12 @@ I am a Game and Web Developer. Most of my projects are in Unity. However, I am a
 <br/>
 
 ## Contact Information
-- [<img align="left" alt="mrthunder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn][linkedin]
+- [<img align="left" alt="byleththunder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn][linkedin]
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrthunder&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=byleththunder&show_icons=true&hide_border=true" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthunder&hide=ShaderLab,GLSL,Mathematica&hide_border=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byleththunder&hide=ShaderLab,GLSL,Mathematica&hide_border=true)]()
 
 [linkedin]: https://www.linkedin.com/in/lucasdesouzagoes/
