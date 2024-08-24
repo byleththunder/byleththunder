@@ -1,6 +1,6 @@
-# Hello, I am Lucas.
+# Hello, I am Byleth.
 
-I am a Game and Web Developer. Most of my projects are in Unity. However, I am always trying to learn new languages, tools and frameworks. The following are the ones I currently know:
+I am a Game Developer. Most of my projects are in Unity. However, I am always trying to learn new languages, tools and frameworks. The following are the ones I currently know:
 
 ## :video_game: Game Engines and Tools
 <img align="left" alt="byleththunder | Unity Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
@@ -17,13 +17,9 @@ I am a Game and Web Developer. Most of my projects are in Unity. However, I am a
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br/>
 
-## Contact Information
-- [<img align="left" alt="byleththunder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn][linkedin]
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=byleththunder&show_icons=true&hide_border=true" />
